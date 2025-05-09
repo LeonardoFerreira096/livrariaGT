@@ -13,7 +13,7 @@ header {
     padding: 30px 100px;
     position: sticky;
     top: 0;
-    z-index: 1;
+    z-index: 97;
     width: 100%;
 }
 
@@ -62,13 +62,6 @@ header {
 .div-card  img {
     width: 80%;
     
-}
-
-.section-cards {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 20px;
 }
 
 .tag-p {
